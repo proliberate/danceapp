@@ -1,0 +1,5 @@
+h1 Dancers
+ul = each
+  li #{first_name} #{last_name}, #{email}
+else
+  li There are no dancers.

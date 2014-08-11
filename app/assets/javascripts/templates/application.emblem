@@ -1,0 +1,5 @@
+ul
+  li = link-to 'Home' 'index'
+  li = link-to 'Dancers' 'dancers'
+
+outlet
